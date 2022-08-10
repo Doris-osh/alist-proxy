@@ -1,5 +1,5 @@
-const HOST = "YOUR_HOST";
-const TOKEN = "YOUR_TOKEN";
+const HOST = "https://disk.dorisosh.live/";
+const TOKEN = "c7c449a259f48a1d3b0214c3377971da";
 
 addEventListener("fetch", (event) => {
     const request = event.request;
